@@ -1,4 +1,3 @@
-import java.util.stream.Stream;
 
 /*
  * @lc app=leetcode.cn id=42 lang=java
